@@ -2,7 +2,6 @@
 A react password generator component made with typescript
 
 ## Dependencies
-> react
 > react bootstrap ```npm install react-bootstrap bootstrap@5.1.3```
 
 ## Sizing
